@@ -61,4 +61,9 @@ and you should {solution} everyday.
     )
 
 
-diagnose()
+def main():
+    diagnose()
+
+
+if __name__ == "__main__":
+    main()
